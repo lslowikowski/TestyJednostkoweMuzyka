@@ -46,8 +46,7 @@ public class Utwor {
 
     /**
      * @deprecated
-     * pobiera nazwę tytułu utworu
-     * @see com.company.Utwor#getTytul
+     * pobiera nazwę tytułu utworu zalecamy użycie {@link com.company.Utwor#getTytul}
      * @return zwraca tytuł utworu
      */
     public String pobierzTytul() {
